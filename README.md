@@ -1,1 +1,1 @@
-https://samau5.000webhostapp.com/responsive-navigation-bar/index.html
+https://responsive-navbar-1.netlify.app/
