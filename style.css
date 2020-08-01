@@ -1,6 +1,6 @@
 * {
-  padding: 0px;
   margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
 }
 
@@ -10,7 +10,7 @@ nav {
   align-items: center;
   min-height: 8vh;
   background-color: #b5c2c7;
-  font-family: "Poppins", sans-serif;
+  font-family: sans-serif;
 }
 
 .logo {
@@ -37,7 +37,7 @@ nav {
 }
 
 .burger {
-  display: none; /* hidden on Destop View */
+  display: none; /* Hidden on Destop View */
   cursor: pointer;
 }
 
